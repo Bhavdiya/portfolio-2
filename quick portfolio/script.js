@@ -1,4 +1,4 @@
-// Project data
+//data
 const projects = [
     {
         title: "Project Alpha",
